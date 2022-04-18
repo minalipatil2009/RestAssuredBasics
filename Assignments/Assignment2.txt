@@ -1,0 +1,21 @@
+{
+"student":
+    {
+    "rollNum":38,
+    "Name":"soham",
+    "age": 10,
+    "class": 6,
+    "address":{
+	      	    "addressLine1":"A1102",
+	      	    "addressLine2":"SKyHights",
+	      	    "landMark":"Near Data Mandir",
+	      	    "locality":"Aundh",
+	      	    "city":"Pune",
+	      	    "pin":411057
+              }	
+    }
+}
+===================================================
+Assignment2 . Retrive the locality of the Student
+Description:
+Retriving data from JsonObject embeded in another JsonObject

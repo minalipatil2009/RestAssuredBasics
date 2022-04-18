@@ -1,0 +1,12 @@
+{
+"student":
+    {
+    "rollNum":38,
+    "Name":"soham",
+    "age": 10,
+    "class": 6
+    }
+}
+===================================================
+Assignment1 . Retrive the Name of the Student Json given above
+Description: Retriving data from the simple JsonObject
