@@ -1,0 +1,30 @@
+{
+"student":
+    {
+    "rollNum":38,
+    "Name":"soham",
+    "age": 10,
+    "class": 6,
+    "address":[{
+	      	    "addressLine1":"A1102",
+	      	    "addressLine2":"SKyHights",
+	      	    "landMark":"Near Data Mandir",
+	      	    "locality":"Aundh",
+	      	    "city":"Pune",
+	      	    "pin":411057
+              },
+              {
+	      	    "addressLine1":"A1104",
+	      	    "addressLine2":"RangeHills",
+	      	    "landMark":"Near Ganesh Mandir",
+	      	    "locality":"KP",
+	      	    "city":"Pune",
+	      	    "pin":411054
+              }
+              ]
+    }
+}
+===================================================
+Assignment3 . Retrive the cities of the Student from the Json given above
+Description:
+Retriving data from JsonArray of JsonObjects embeded in another JsonObject
